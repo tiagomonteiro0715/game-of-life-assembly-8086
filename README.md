@@ -120,11 +120,8 @@ Leaderboard with columns: Generation, Cells, Player, Date, Time
 
 ## Contributions
 
-- **Lucas Pereira** 
-- **Isaac Furtado**
+- Lucas Pereira
+- [Issac Furtado](https://www.linkedin.com/in/isaac-furtado-94a962379/)
+- [Tiago Monteiro](https://www.linkedin.com/in/tiago-monteiro-/)
 
-Tiago Monteiro
-
-- GitHub: @tiagomonteiro0715
-- LinkedIn: [Tiago Monteiro](https://www.linkedin.com/in/tiago-monteiro-/)
 
